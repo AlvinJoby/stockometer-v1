@@ -1,0 +1,30 @@
+STOCKOMETER (stock Analyzer) - Version-1
+----------------------------------------
+
+🔹 Project Overview
+
+    - A Python-based stock data analysis tool built using pandas to preprocess,
+     analyze, and extract insights from historical stock market data.
+
+🔹 Key Features
+
+    - Imported and validated stock data from CSV files
+    - Performed data cleaning and preprocessing for time-series analysis
+    - Converted and indexed datetime data for chronological accuracy
+    - Cleaned and standardized numeric financial columns
+    - Generated descriptive statistical summaries
+    - Computed daily percentage returns
+    - Calculated 30-day rolling volatility for risk analysis
+
+🔹 Technologies Used
+
+    - Python
+    - Pandas
+
+🔹 Analytical Focus
+
+    - Time-series data handling
+    - Return calculation
+    - Volatility measurement
+    - Basic financial data exploration
+
