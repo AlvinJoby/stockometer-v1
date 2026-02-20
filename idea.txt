@@ -1,5 +1,5 @@
-STOCKOMETER (stock Analyzer) - Version-1
-----------------------------------------
+STOCKOMETER (stock Analyzer) - Version-1.1
+------------------------------------------
 
 🔹 Project Overview
 
